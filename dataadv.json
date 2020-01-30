@@ -1,0 +1,39 @@
+var books = [{
+	"title": "The Art of Thinking Clearly",
+	"author": "Rolf Dobelli",
+	"read": "false",
+}, {
+	"title": "The Life List",
+	"author": "Lori Nelson Spielman",
+	"read": "false",
+}, {
+	"title": "If I Stay",
+	"author": "Gayle Forman",
+	"read": "false",
+}, {
+	"title": "The Giver",
+	"author": "Lois Lowry",
+	"read": "false",
+}, {
+	"title": "City of Girls",
+	"author": "Elizabeth Gilbert",
+	"read": "false",
+}];
+
+var images = [{
+	"img": "img/elizabet.jpg",
+	"id": "elizabet"
+}, {
+	"img": "img/artofthinking.jpg",
+	"id": "artofthinking"
+}, {
+	"img": "img/thelifelist.jpg",
+	"id": "liftlist"
+}, {
+	"img": "img/ifistay.jpg",
+	"id": "ifistay"
+}, {
+	"img": "img/thegiver.jpg",
+	"id": "thegiver"
+}
+]
