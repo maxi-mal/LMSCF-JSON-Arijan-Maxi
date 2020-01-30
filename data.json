@@ -1,4 +1,4 @@
-employees = '[{
+var employees = [{
 	"uniqueid": "1",
 	"firstname": "Paul",
 	"lastname": "Obryant",
@@ -6,31 +6,31 @@ employees = '[{
 	"jobtitle": "librarian",
 	"salary": "2000"
 }, {
-	"uniqueid":"2",
-	"firstname":"Paula",
-	"lastname":"Obryant",
-	"emailaddress":"paulaobryant@gmail.com",
-	"jobtitle":"teacher",
-	"salary":"2000"
+	"uniqueid": "2",
+	"firstname": "Paula",
+	"lastname": "Obryant",
+	"emailaddress": "paulaobryant@gmail.com",
+	"jobtitle": "teacher",
+	"salary": "2000"
 }, {
-	"uniqueid":"3",
-	"firstname":"Alexander",
-	"lastname":"Huber",
-	"emailaddress":"alexanderhuber@gmail.com",
-	"jobtitle":"mechanic",
-	"salary":"2000"
+	"uniqueid": "3",
+	"firstname": "Alexander",
+	"lastname": "Huber",
+	"emailaddress": "alexanderhuber@gmail.com",
+	"jobtitle": "mechanic",
+	"salary": "2000"
 }, {
-	"uniqueid":"4",
-	"firstname":"Arijan",
-	"lastname":"Sulimani",
-	"emailaddress":"arijansulimani@gmail.com",
-	"jobtitle":"coder",
-	"salary":"4000"
+	"uniqueid": "4",
+	"firstname": "Arijan",
+	"lastname": "Sulimani",
+	"emailaddress": "arijansulimani@gmail.com",
+	"jobtitle": "coder",
+	"salary": "4000"
 }, {
-	"uniqueid":"5",
-	"firstname":"John",
-	"lastname":"Jones",
-	"emailaddress":"johnjones@gmail.com",
-	"jobtitle":"cabdriver",
-	"salary":"2000"
-}]';
+	"uniqueid": "5",
+	"firstname": "John",
+	"lastname": "Jones",
+	"emailaddress": "johnjones@gmail.com",
+	"jobtitle": "cabdriver",
+	"salary": "2000"
+}];
